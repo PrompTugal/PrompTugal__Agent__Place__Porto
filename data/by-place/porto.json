@@ -1328,7 +1328,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T18:38Z",
+  "read_at": "2026-11-27T18:38:35Z",
   "by": "place.porto@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -1438,6 +1438,39 @@
     "read_at": "2026-11-27T18:26:07Z",
     "mentions_place": false,
     "date": "2026-11-27"
+   },
+   {
+    "title": "Potencial transformador da mudança foi tema de debate na 5.ª edição do \"Women on Boards\"",
+    "url": "https://www.porto.pt/pt/noticia/pedro-duarte-sublinha-o-potencial-transformador-da-mudanca-na-5-edicao-do-women-on-boards/",
+    "published": "2026-11-27",
+    "date": "2026-11-27",
+    "source": "Câmara Municipal do Porto (official site)",
+    "source_site": "https://www.cm-porto.pt/",
+    "feed": "https://www.cm-porto.pt/",
+    "read_at": "2026-11-27T18:36:58Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Conselho Metropolitano enaltece alinhamento de estratégias com o Governo na mobilidade na região",
+    "url": "https://www.porto.pt/pt/noticia/conselho-metropolitano-enaltece-alinhamento-de-estrategias-com-o-governo-na-mobilidade-na-regiao/",
+    "published": "2026-11-27",
+    "date": "2026-11-27",
+    "source": "Câmara Municipal do Porto (official site)",
+    "source_site": "https://www.cm-porto.pt/",
+    "feed": "https://www.cm-porto.pt/",
+    "read_at": "2026-11-27T18:37:00Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Sofia Lemos assume direção artística da Galeria Municipal do Porto",
+    "url": "https://www.porto.pt/pt/noticia/sofia-lemos-assume-direcao-artistica-da-galeria-municipal-do-porto/",
+    "published": "2026-11-27",
+    "date": "2026-11-27",
+    "source": "Câmara Municipal do Porto (official site)",
+    "source_site": "https://www.cm-porto.pt/",
+    "feed": "https://www.cm-porto.pt/",
+    "read_at": "2026-11-27T18:37:15Z",
+    "mentions_place": true
    },
    {
     "title": "Novo Chefe, nova carta. Sempre Exuberante!",
