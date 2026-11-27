@@ -1328,15 +1328,15 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T07:38Z",
+  "read_at": "2026-11-27T07:38:31Z",
   "by": "place.porto@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Palácio da Bolsa junta-se à magia do Natal do Porto com a maior iluminação de sempre",
-   "url": "https://globalnews.pt/sociedade/palacio-da-bolsa-junta-se-a-magia-do-natal-do-porto-com-a-maior-iluminacao-de-sempre/",
-   "source": "Global News",
-   "date": "2026-11-25",
-   "read_at": "2026-11-27T07:25:51Z",
+   "title": "Município assume gestão cultural da Casa das Artes",
+   "url": "https://www.porto.pt/pt/noticia/camara-do-porto-assume-gestao-cultural-da-casa-das-artes/",
+   "source": "Câmara Municipal do Porto (official site)",
+   "date": "2026-11-26",
+   "read_at": "2026-11-27T07:37:02Z",
    "names_place": true
   },
   "items": [
@@ -1515,6 +1515,50 @@
     "read_at": "2026-11-27T07:25:55Z",
     "mentions_place": false,
     "date": "2026-11-26"
+   },
+   {
+    "title": "Município assume gestão cultural da Casa das Artes",
+    "url": "https://www.porto.pt/pt/noticia/camara-do-porto-assume-gestao-cultural-da-casa-das-artes/",
+    "published": "2026-11-26",
+    "date": "2026-11-26",
+    "source": "Câmara Municipal do Porto (official site)",
+    "source_site": "https://www.cm-porto.pt/",
+    "feed": "https://www.cm-porto.pt/",
+    "read_at": "2026-11-27T07:37:02Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Executivo aprova orçamento que prevê crescimento do investimento municipal em 2027",
+    "url": "https://www.porto.pt/pt/noticia/executivo-aprova-orcamento-que-preve-crescimento-do-investimento-municipal-em-2027/",
+    "published": "2026-11-26",
+    "date": "2026-11-26",
+    "source": "Câmara Municipal do Porto (official site)",
+    "source_site": "https://www.cm-porto.pt/",
+    "feed": "https://www.cm-porto.pt/",
+    "read_at": "2026-11-27T07:37:04Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Câmara do Porto reconhece significado histórico do 25 de Novembro de 75",
+    "url": "https://www.porto.pt/pt/noticia/camara-do-porto-reconhece-significado-historico-do-25-de-novembro-de-75/",
+    "published": "2026-11-26",
+    "date": "2026-11-26",
+    "source": "Câmara Municipal do Porto (official site)",
+    "source_site": "https://www.cm-porto.pt/",
+    "feed": "https://www.cm-porto.pt/",
+    "read_at": "2026-11-27T07:37:07Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Exposição no âmbito do Mosaico dá a conhecer a diversidade da oferta educativa e formativa da cidade",
+    "url": "https://www.porto.pt/pt/noticia/exposicao-no-ambito-do-mosaico-da-a-conhecer-a-diversidade-da-oferta-educativa-e-formativa-da-cidade/",
+    "published": "2026-11-26",
+    "date": "2026-11-26",
+    "source": "Câmara Municipal do Porto (official site)",
+    "source_site": "https://www.cm-porto.pt/",
+    "feed": "https://www.cm-porto.pt/",
+    "read_at": "2026-11-27T07:37:21Z",
+    "mentions_place": true
    },
    {
     "title": "POST PUNK STRIKES BACK AGAIN PELA 7ª VEZ JÁ ESTE FIM-DE-SEMANA",
