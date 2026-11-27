@@ -5,7 +5,7 @@
  "kind": "city",
  "parent": "portugal",
  "status": "live",
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "by": "place.porto@PrompTugal.dinis",
  "mandate": "PrompTugal.news Porto: AI and technology in Porto, a university and startup city whose centre of gravity is UPTEC, the University of Porto's science park, its AI startups and its research institutes, and what reaches Porto from Portugal, Europe and the world. Independent, and every fact sourced.",
  "gravity": {
@@ -1328,59 +1328,158 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T18:38:26Z",
+  "read_at": "2026-11-27T07:38Z",
   "by": "place.porto@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Executivo aprova orçamento que prevê crescimento do investimento municipal em 2027",
-   "url": "https://www.porto.pt/pt/noticia/executivo-aprova-orcamento-que-preve-crescimento-do-investimento-municipal-em-2027/",
-   "source": "Câmara Municipal do Porto (official site)",
-   "date": "2026-11-26",
-   "read_at": "2026-11-26T18:25:44Z",
+   "title": "Palácio da Bolsa junta-se à magia do Natal do Porto com a maior iluminação de sempre",
+   "url": "https://globalnews.pt/sociedade/palacio-da-bolsa-junta-se-a-magia-do-natal-do-porto-com-a-maior-iluminacao-de-sempre/",
+   "source": "Global News",
+   "date": "2026-11-25",
+   "read_at": "2026-11-27T07:25:51Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "Governo pede investigação de urgência sobre aterros que trabalham fora da lei",
-    "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/governo-pede-investigacao-de-urgencia-sobre-aterros-que-trabalham-fora-da-lei",
-    "published": "2026-11-26T18:11Z",
-    "source": "Jornal de Negócios",
-    "source_site": "https://www.jornaldenegocios.pt/",
-    "feed": "https://www.jornaldenegocios.pt/rss",
-    "read_at": "2026-11-26T18:27:22Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Debate de urgência sobre medidas do OE2027 agendado para a próxima quinta-feira",
-    "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/debate-de-urgencia-sobre-medidas-do-oe2027-agendado-para-a-proxima-quinta-feira",
-    "published": "2026-11-26T18:06Z",
-    "source": "Jornal de Negócios",
-    "source_site": "https://www.jornaldenegocios.pt/",
-    "feed": "https://www.jornaldenegocios.pt/rss",
-    "read_at": "2026-11-26T18:27:22Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Metro de Lisboa: três estações da linha Verde com horários reduzidos até 1 de dezembro",
-    "url": "https://24noticias.sapo.pt/atualidade/artigos/metro-de-lisboa-tres-estacoes-da-linha-verde-com-horarios-reduzidos-ate-1-de-dezembro",
-    "published": "2026-11-26T17:50Z",
+    "title": "Má higiene oral pode afetar o coração? Cardiologista explica onde está o mito e a verdade",
+    "url": "https://24noticias.sapo.pt/atualidade/artigos/ma-higiene-oral-pode-afetar-o-coracao-cardiologista-explica-onde-esta-o-mito-e-a-verdade",
+    "published": "2026-11-27T07:10Z",
     "source": "24 Notícias",
     "source_site": "https://24noticias.sapo.pt/",
     "feed": "https://24noticias.sapo.pt/feed",
-    "read_at": "2026-11-26T18:27:16Z",
+    "read_at": "2026-11-27T07:25:47Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Simon Montefiore: “O lobby judaico é um mito. O do Qatar e o da Turquia são hoje mais poderosos”",
+    "url": "https://24noticias.sapo.pt/atualidade/artigos/simon-montefiore-o-lobby-judaico-e-um-mito-o-do-qatar-e-o-da-turquia-sao-hoje-mais-poderosos",
+    "published": "2026-11-27T07:04Z",
+    "source": "24 Notícias",
+    "source_site": "https://24noticias.sapo.pt/",
+    "feed": "https://24noticias.sapo.pt/feed",
+    "read_at": "2026-11-27T07:25:47Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Dólar forte e juros mais altos da Fed passam rasteira ao ouro",
+    "url": "https://www.jornaldenegocios.pt/mercados/materias-primas/detalhe/dolar-forte-e-juros-mais-altos-da-fed-passam-rasteira-ao-ouro",
+    "published": "2026-11-27T07:00Z",
+    "source": "Jornal de Negócios",
+    "source_site": "https://www.jornaldenegocios.pt/",
+    "feed": "https://www.jornaldenegocios.pt/rss",
+    "read_at": "2026-11-27T07:25:53Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Wall Street regressa, contas da Ibersol e 3 outras coisas que precisa de saber para começar o dia",
+    "url": "https://www.jornaldenegocios.pt/mercados/detalhe/wall-street-regressa-contas-da-ibersol-e-3-outras-coisas-que-precisa-de-saber-para-comecar-o-dia",
+    "published": "2026-11-27T06:45Z",
+    "source": "Jornal de Negócios",
+    "source_site": "https://www.jornaldenegocios.pt/",
+    "feed": "https://www.jornaldenegocios.pt/rss",
+    "read_at": "2026-11-27T07:25:53Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Reunião sobre Orçamento da UE termina sem acordo mas Costa espera aval em dezembro",
+    "url": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/reuniao-sobre-orcamento-da-ue-termina-sem-acordo-mas-costa-espera-aval-em-dezembro",
+    "published": "2026-11-27T00:26Z",
+    "source": "Jornal de Negócios",
+    "source_site": "https://www.jornaldenegocios.pt/",
+    "feed": "https://www.jornaldenegocios.pt/rss",
+    "read_at": "2026-11-27T07:25:53Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "APA diz que licenciamento e fiscalização dos aterros com ilegalidades cabem às CCDR",
+    "url": "https://www.jornaldenegocios.pt/economia/detalhe/apa-diz-que-licenciamento-e-fiscalizacao-dos-aterros-com-ilegalidades-cabem-as-ccdr",
+    "published": "2026-11-26T23:53Z",
+    "source": "Jornal de Negócios",
+    "source_site": "https://www.jornaldenegocios.pt/",
+    "feed": "https://www.jornaldenegocios.pt/rss",
+    "read_at": "2026-11-27T07:25:53Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
    {
-    "title": "Aguiar-Branco: o advogado do diabo",
-    "url": "https://24noticias.sapo.pt/opiniao/artigos/aguiar-branco-o-advogado-do-diabo",
-    "published": "2026-11-26T17:37Z",
+    "title": "Proposta de Costa para orçamento comunitário \"ainda não é suficiente\", diz primeiro-ministro",
+    "url": "https://www.jornaldenegocios.pt/economia/detalhe/proposta-de-costa-para-orcamento-comunitario-ainda-nao-e-suficiente-diz-primeiro-ministro",
+    "published": "2026-11-26T23:49Z",
+    "source": "Jornal de Negócios",
+    "source_site": "https://www.jornaldenegocios.pt/",
+    "feed": "https://www.jornaldenegocios.pt/rss",
+    "read_at": "2026-11-27T07:25:53Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Mais de sete milhões aprovados para a profissionalização de professores sem formação pedagógica",
+    "url": "https://24noticias.sapo.pt/atualidade/artigos/mais-de-sete-milhoes-aprovados-para-a-profissionalizacao-de-professores-sem-formacao-pedagogica",
+    "published": "2026-11-26T23:38Z",
     "source": "24 Notícias",
     "source_site": "https://24noticias.sapo.pt/",
     "feed": "https://24noticias.sapo.pt/feed",
-    "read_at": "2026-11-26T18:27:16Z",
+    "read_at": "2026-11-27T07:25:47Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Braço de ferro entre Montenegro e Parlamento: resposta tem de vir do TC",
+    "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/braco-de-ferro-entre-montenegro-e-parlamento-resposta-tem-de-vir-do-tc",
+    "published": "2026-11-26T23:30Z",
+    "source": "Jornal de Negócios",
+    "source_site": "https://www.jornaldenegocios.pt/",
+    "feed": "https://www.jornaldenegocios.pt/rss",
+    "read_at": "2026-11-27T07:25:53Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Macron avisa que só poderá negociar orçamento da UE até ao final do ano",
+    "url": "https://24noticias.sapo.pt/economia/artigos/macron-avisa-que-so-podera-negociar-orcamento-da-ue-ate-ao-final-do-ano",
+    "published": "2026-11-26T22:45Z",
+    "source": "24 Notícias",
+    "source_site": "https://24noticias.sapo.pt/",
+    "feed": "https://24noticias.sapo.pt/feed",
+    "read_at": "2026-11-27T07:25:47Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Vila Nova de Gaia abre concursos para 186 casas em arrendamento acessível",
+    "url": "https://24noticias.sapo.pt/atualidade/artigos/vila-nova-de-gaia-abre-concursos-para-186-casas-em-arrendamento-acessivel",
+    "published": "2026-11-26T21:45Z",
+    "source": "24 Notícias",
+    "source_site": "https://24noticias.sapo.pt/",
+    "feed": "https://24noticias.sapo.pt/feed",
+    "read_at": "2026-11-27T07:25:47Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Conselho Geral Independente da RTP quer parecer da ERC sobre espetáculos tauromáquicos",
+    "url": "https://24noticias.sapo.pt/atualidade/artigos/conselho-geral-independente-da-rtp-quer-parecer-da-erc-sobre-espetaculos-tauromaquicos",
+    "published": "2026-11-26T21:05Z",
+    "source": "24 Notícias",
+    "source_site": "https://24noticias.sapo.pt/",
+    "feed": "https://24noticias.sapo.pt/feed",
+    "read_at": "2026-11-27T07:25:47Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Novo Chefe, nova carta. Sempre Exuberante!",
+    "url": "https://globalnews.pt/especiais/passeios-gourmet/novo-chefe-nova-carta-sempre-exuberante/",
+    "published": "2026-11-26T18:45Z",
+    "source": "Global News",
+    "source_site": "http://globalnews.pt",
+    "feed": "http://globalnews.pt/feed/",
+    "read_at": "2026-11-27T07:25:51Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -1391,73 +1490,7 @@
     "source": "JPN - JornalismoPortoNet",
     "source_site": "https://www.jpn.up.pt/",
     "feed": "https://www.jpn.up.pt/feed/",
-    "read_at": "2026-11-26T18:27:26Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Hugo Soares afasta moção de confiança e diz que oposição \"deu razão\" a Montenegro",
-    "url": "https://www.jornaldenegocios.pt/economia/detalhe/hugo-soares-afasta-mocao-de-confianca-e-diz-que-oposicao-deu-razao-a-montenegro",
-    "published": "2026-11-26T17:34Z",
-    "source": "Jornal de Negócios",
-    "source_site": "https://www.jornaldenegocios.pt/",
-    "feed": "https://www.jornaldenegocios.pt/rss",
-    "read_at": "2026-11-26T18:27:22Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "IVA 0%, rendas moderadas, bónus nas pensões e ISP: o que está em causa no braço-de-ferro entre Governo e oposição?",
-    "url": "https://www.jornaldenegocios.pt/economia/detalhe/iva-0-rendas-moderadas-bonus-nas-pensoes-e-isp-o-que-esta-em-causa-no-braco-de-ferro-entre-governo-e-oposicao",
-    "published": "2026-11-26T17:26Z",
-    "source": "Jornal de Negócios",
-    "source_site": "https://www.jornaldenegocios.pt/",
-    "feed": "https://www.jornaldenegocios.pt/rss",
-    "read_at": "2026-11-26T18:27:22Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Lisboa acompanha recuperação europeia com construtoras e BCP na liderança",
-    "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/lisboa-acompanha-recuperacao-europeia-com-construtoras-e-bcp-na-lideranca",
-    "published": "2026-11-26T16:56Z",
-    "source": "Jornal de Negócios",
-    "source_site": "https://www.jornaldenegocios.pt/",
-    "feed": "https://www.jornaldenegocios.pt/rss",
-    "read_at": "2026-11-26T18:27:22Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Ventura desafia Montenegro a apresentar uma moção de confiança ao Governo",
-    "url": "https://24noticias.sapo.pt/atualidade/artigos/ventura-desafia-montenegro-a-apresentar-uma-mocao-de-confianca-ao-governo",
-    "published": "2026-11-26T16:26Z",
-    "source": "24 Notícias",
-    "source_site": "https://24noticias.sapo.pt/",
-    "feed": "https://24noticias.sapo.pt/feed",
-    "read_at": "2026-11-26T18:27:16Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Ventura desafia Montenegro a apresentar moção de confiança. \"Parlamento não faz recomendações orçamentais\"",
-    "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/ventura-desafia-montenegro-a-apresentar-mocao-de-confianca",
-    "published": "2026-11-26T16:15Z",
-    "source": "Jornal de Negócios",
-    "source_site": "https://www.jornaldenegocios.pt/",
-    "feed": "https://www.jornaldenegocios.pt/rss",
-    "read_at": "2026-11-26T18:27:22Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Chega pede debate de urgência no Parlamento após Montenegro recusar medidas do Orçamento do Estado",
-    "url": "https://24noticias.sapo.pt/atualidade/artigos/chega-pede-debate-de-urgencia-no-parlamento-apos-montenegro-recusar-medidas-do-orcamento-do-estado",
-    "published": "2026-11-26T16:01Z",
-    "source": "24 Notícias",
-    "source_site": "https://24noticias.sapo.pt/",
-    "feed": "https://24noticias.sapo.pt/feed",
-    "read_at": "2026-11-26T18:27:16Z",
+    "read_at": "2026-11-27T07:25:55Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -1468,29 +1501,7 @@
     "source": "JPN - JornalismoPortoNet",
     "source_site": "https://www.jpn.up.pt/",
     "feed": "https://www.jpn.up.pt/feed/",
-    "read_at": "2026-11-26T18:27:26Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Onde acaba o poder do Parlamento e começa o do Governo? O “velho problema” por trás do conflito sobre o Orçamento de Estado",
-    "url": "https://24noticias.sapo.pt/atualidade/artigos/onde-acaba-o-poder-do-parlamento-e-comeca-o-do-governo-o-velho-problema-por-tras-do-conflito-sobre-o-orcamento-de-estado",
-    "published": "2026-11-26T15:14Z",
-    "source": "24 Notícias",
-    "source_site": "https://24noticias.sapo.pt/",
-    "feed": "https://24noticias.sapo.pt/feed",
-    "read_at": "2026-11-26T18:27:16Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Antigo governador do Banco de Espanha deverá assumir presidência do BCE em fevereiro",
-    "url": "https://24noticias.sapo.pt/economia/artigos/antigo-governador-do-banco-de-espanha-devera-assumir-presidencia-do-bce-em-fevereiro",
-    "published": "2026-11-26T15:00Z",
-    "source": "24 Notícias",
-    "source_site": "https://24noticias.sapo.pt/",
-    "feed": "https://24noticias.sapo.pt/feed",
-    "read_at": "2026-11-26T18:27:16Z",
+    "read_at": "2026-11-27T07:25:55Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -1501,64 +1512,9 @@
     "source": "JPN - JornalismoPortoNet",
     "source_site": "https://www.jpn.up.pt/",
     "feed": "https://www.jpn.up.pt/feed/",
-    "read_at": "2026-11-26T18:27:26Z",
+    "read_at": "2026-11-27T07:25:55Z",
     "mentions_place": false,
     "date": "2026-11-26"
-   },
-   {
-    "title": "Executivo aprova orçamento que prevê crescimento do investimento municipal em 2027",
-    "url": "https://www.porto.pt/pt/noticia/executivo-aprova-orcamento-que-preve-crescimento-do-investimento-municipal-em-2027/",
-    "published": "2026-11-26",
-    "date": "2026-11-26",
-    "source": "Câmara Municipal do Porto (official site)",
-    "source_site": "https://www.cm-porto.pt/",
-    "feed": "https://www.cm-porto.pt/",
-    "read_at": "2026-11-26T18:25:44Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Câmara do Porto reconhece significado histórico do 25 de Novembro de 75",
-    "url": "https://www.porto.pt/pt/noticia/camara-do-porto-reconhece-significado-historico-do-25-de-novembro-de-75/",
-    "published": "2026-11-26",
-    "date": "2026-11-26",
-    "source": "Câmara Municipal do Porto (official site)",
-    "source_site": "https://www.cm-porto.pt/",
-    "feed": "https://www.cm-porto.pt/",
-    "read_at": "2026-11-26T18:25:46Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Porto Solidário: programa de apoio à renda aumenta orçamento, com destaque para os mais jovens",
-    "url": "https://www.porto.pt/pt/noticia/porto-solidario-programa-de-apoio-a-renda-aumenta-orcamento-com-destaque-para-os-mais-jovens/",
-    "published": "2026-11-26",
-    "date": "2026-11-26",
-    "source": "Câmara Municipal do Porto (official site)",
-    "source_site": "https://www.cm-porto.pt/",
-    "feed": "https://www.cm-porto.pt/",
-    "read_at": "2026-11-26T18:25:48Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Exposição no âmbito do Mosaico dá a conhecer a diversidade da oferta educativa e formativa da cidade",
-    "url": "https://www.porto.pt/pt/noticia/exposicao-no-ambito-do-mosaico-da-a-conhecer-a-diversidade-da-oferta-educativa-e-formativa-da-cidade/",
-    "published": "2026-11-26",
-    "date": "2026-11-26",
-    "source": "Câmara Municipal do Porto (official site)",
-    "source_site": "https://www.cm-porto.pt/",
-    "feed": "https://www.cm-porto.pt/",
-    "read_at": "2026-11-26T18:25:51Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Nova ciclovia já liga a zona da Asprela a Campanhã",
-    "url": "https://www.porto.pt/pt/noticia/nova-ciclovia-ja-liga-a-zona-da-asprela-a-campanha/",
-    "published": "2026-11-26",
-    "date": "2026-11-26",
-    "source": "Câmara Municipal do Porto (official site)",
-    "source_site": "https://www.cm-porto.pt/",
-    "feed": "https://www.cm-porto.pt/",
-    "read_at": "2026-11-26T18:25:54Z",
-    "mentions_place": true
    },
    {
     "title": "POST PUNK STRIKES BACK AGAIN PELA 7ª VEZ JÁ ESTE FIM-DE-SEMANA",
@@ -1567,7 +1523,7 @@
     "source": "Global News",
     "source_site": "http://globalnews.pt",
     "feed": "http://globalnews.pt/feed/",
-    "read_at": "2026-11-26T18:27:20Z",
+    "read_at": "2026-11-27T07:25:51Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -1578,7 +1534,7 @@
     "source": "JPN - JornalismoPortoNet",
     "source_site": "https://www.jpn.up.pt/",
     "feed": "https://www.jpn.up.pt/feed/",
-    "read_at": "2026-11-26T18:27:26Z",
+    "read_at": "2026-11-27T07:25:55Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -1589,7 +1545,7 @@
     "source": "Quinzenário A Defesa",
     "source_site": "https://adefesa.org/",
     "feed": "https://adefesa.org/feed/",
-    "read_at": "2026-11-26T18:27:18Z",
+    "read_at": "2026-11-27T07:25:49Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -1600,7 +1556,7 @@
     "source": "Global News",
     "source_site": "http://globalnews.pt",
     "feed": "http://globalnews.pt/feed/",
-    "read_at": "2026-11-26T18:27:20Z",
+    "read_at": "2026-11-27T07:25:51Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -1611,7 +1567,7 @@
     "source": "Quinzenário A Defesa",
     "source_site": "https://adefesa.org/",
     "feed": "https://adefesa.org/feed/",
-    "read_at": "2026-11-26T18:27:18Z",
+    "read_at": "2026-11-27T07:25:49Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -1622,7 +1578,7 @@
     "source": "Quinzenário A Defesa",
     "source_site": "https://adefesa.org/",
     "feed": "https://adefesa.org/feed/",
-    "read_at": "2026-11-26T18:27:18Z",
+    "read_at": "2026-11-27T07:25:49Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -1633,7 +1589,7 @@
     "source": "Quinzenário A Defesa",
     "source_site": "https://adefesa.org/",
     "feed": "https://adefesa.org/feed/",
-    "read_at": "2026-11-26T18:27:18Z",
+    "read_at": "2026-11-27T07:25:49Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -1644,7 +1600,7 @@
     "source": "Quinzenário A Defesa",
     "source_site": "https://adefesa.org/",
     "feed": "https://adefesa.org/feed/",
-    "read_at": "2026-11-26T18:27:18Z",
+    "read_at": "2026-11-27T07:25:49Z",
     "mentions_place": false,
     "date": "2026-11-24"
    },
@@ -1655,7 +1611,7 @@
     "source": "Quinzenário A Defesa",
     "source_site": "https://adefesa.org/",
     "feed": "https://adefesa.org/feed/",
-    "read_at": "2026-11-26T18:27:18Z",
+    "read_at": "2026-11-27T07:25:49Z",
     "mentions_place": false,
     "date": "2026-11-24"
    },
@@ -1666,7 +1622,7 @@
     "source": "Global News",
     "source_site": "http://globalnews.pt",
     "feed": "http://globalnews.pt/feed/",
-    "read_at": "2026-11-26T18:27:20Z",
+    "read_at": "2026-11-27T07:25:51Z",
     "mentions_place": false,
     "date": "2026-11-24"
    },
@@ -1677,7 +1633,7 @@
     "source": "JPN - JornalismoPortoNet",
     "source_site": "https://www.jpn.up.pt/",
     "feed": "https://www.jpn.up.pt/feed/",
-    "read_at": "2026-11-26T18:27:26Z",
+    "read_at": "2026-11-27T07:25:55Z",
     "mentions_place": false,
     "date": "2026-11-24"
    },
@@ -1688,7 +1644,7 @@
     "source": "Global News",
     "source_site": "http://globalnews.pt",
     "feed": "http://globalnews.pt/feed/",
-    "read_at": "2026-11-26T18:27:20Z",
+    "read_at": "2026-11-27T07:25:51Z",
     "mentions_place": false,
     "date": "2026-11-23"
    },
@@ -1699,7 +1655,7 @@
     "source": "Global News",
     "source_site": "http://globalnews.pt",
     "feed": "http://globalnews.pt/feed/",
-    "read_at": "2026-11-26T18:27:20Z",
+    "read_at": "2026-11-27T07:25:51Z",
     "mentions_place": false,
     "date": "2026-11-22"
    },
@@ -1710,20 +1666,9 @@
     "source": "JPN - JornalismoPortoNet",
     "source_site": "https://www.jpn.up.pt/",
     "feed": "https://www.jpn.up.pt/feed/",
-    "read_at": "2026-11-26T18:27:26Z",
+    "read_at": "2026-11-27T07:25:55Z",
     "mentions_place": false,
     "date": "2026-11-22"
-   },
-   {
-    "title": "Como pedir um cartão de crédito sem anuidade e de aprovação rápida",
-    "url": "https://globalnews.pt/sociedade/como-pedir-um-cartao-de-credito-sem-anuidade-e-de-aprovacao-rapida/",
-    "published": "2026-11-21T17:12Z",
-    "source": "Global News",
-    "source_site": "http://globalnews.pt",
-    "feed": "http://globalnews.pt/feed/",
-    "read_at": "2026-11-26T18:27:20Z",
-    "mentions_place": false,
-    "date": "2026-11-21"
    }
   ]
  }
